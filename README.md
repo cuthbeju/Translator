@@ -1,7 +1,7 @@
 # Translator-Overview
 
-Application takes user-inputted text, a user-selected language to translate from (from-language) and a user-selected language to (to-language) translate 
-to. After clicking the 'translate' button, the user-inputted text is translated to the to-language and displayed. 
+Application takes user-inputted text, a user-selected language to translate from (from-language) and a user-selected language to translate to 
+(to-language). After clicking the 'translate' button, the user-inputted text is translated to the to-language and displayed. 
 
 Users can clear the translation by clicking on the 'clear' button. 
 
